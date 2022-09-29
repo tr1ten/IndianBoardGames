@@ -11,10 +11,10 @@ Small games which i used to play when i was bored :)
 
 2. Tic Tac Toe
 3. Soduko Solver ( technically not a game but still i add this here )
-> it is basicly a 9*9 matrix board game
+> it is basically a 9X9 matrix board game
 >rule 1: there should be no matching number in the row
 >rule 2: there should be no matching number in the column
->rule 3: there should be no matching number in the cell of 3*3 matrix
+>rule 3: there should be no matching number in the cell of 3X3 matrix
 4. Quiz (named matrix)
 5. Raja Mantari Chor Sepai (Hindi)
 
