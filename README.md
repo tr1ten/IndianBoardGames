@@ -21,7 +21,7 @@ Small games which i used to play when i was bored :)
 >rule 2: there should be no matching number in the column
 >rule 3: there should be no matching number in the cell of 3X3 matrix
 4. Quiz (named matrix)
-5. Raja Mantari Chor Sepai (Hindi)
+5. Raja Mantari Chor Sipahi (Hindi)
 
 ### Prerequisites
 
