@@ -29,7 +29,7 @@ At the end, Scores will be:
 
 1. King - 1000
 
-2. Minister - 0 or 800 depending on if guess is correct
+2. Minister - 0 if guess is wrong else 800
 
 3. Thief - 0 if Minister's guess is correct else 800
 
