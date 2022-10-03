@@ -25,7 +25,7 @@ Small games which i used to play when i was bored :)
 
 
 
-At the end,  Each player will score according to the rules below:
+At the end, Scores will be:
 
 1. King - 1000
 
