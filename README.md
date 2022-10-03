@@ -17,6 +17,23 @@ Small games which i used to play when i was bored :)
 >rule 3: there should be no matching number in the cell of 3X3 matrix
 4. Quiz (named matrix)
 5. Raja Mantari Chor Sepai (Hindi)
+> At the start of the game, each person will know its role but it will not be revealed to others.
+
+> King has to reveal himself first and ask Minister to reveal him then.
+
+> Minister will then have 30 seconds to find out the thief between rest 2 players. If he clicks on the correct card which is thief's card within time, he wins and gets the point. Else, Thief wins and minister scores a 0.
+
+
+
+At the end, Scores will be:
+
+1. King - 1000
+
+2. Minister - 0 if guess is wrong else 800
+
+3. Thief - 0 if Minister's guess is correct else 800
+
+4. Police - 500
 
 ### Prerequisites
 
